@@ -1,0 +1,17 @@
+/*  
+    mytheme_css
+*/
+
+
+body {
+    background-color: gray;
+}
+
+
+.menu {
+    float: left;
+}
+
+.logo {
+    float: right;
+}
